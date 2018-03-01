@@ -1,0 +1,2 @@
+webpackJsonp([55702396619907],{382:function(t,a){t.exports={data:{site:{siteMetadata:{title:"blackfishf",subtitle:"Coffee lover. Web developer.",copyright:"© Mit License",menu:[{label:"Articles",path:"/"},{label:"About",path:"/about/"},{label:"Contact",path:"/contact/"}],author:{name:"blackfishf",email:"blackfishf@yahoo.com",telegram:"#",twitter:"#",github:"blackfishf",rss:"",vk:"#"}}},allMarkdownRemark:{group:[{fieldValue:"javascript",totalCount:1},{fieldValue:"react",totalCount:1}]}},pathContext:{}}}});
+//# sourceMappingURL=path---tags-b50f4c020cde959c5c0a.js.map
